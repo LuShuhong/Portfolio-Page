@@ -15,17 +15,17 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail />
             <h4>Email</h4>
-            <a href="mailto:ukshuhong@gmail.com">Send an email</a>
+            <a href="mailto:ukshuhong@gmail.com" target="_blank">Send an email</a>
           </article>
           <article className="contact__option">
             <BsLinkedin />
             <h4>Linkedin</h4>
-            <a href="https://www.linkedin.com/in/shuhong-lu">Send a message</a>
+            <a href="https://www.linkedin.com/in/shuhong-lu" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp />
             <h4>WhatsApp</h4>
-            <a href="https://api.whatsapp.com/send?phone+447477028979">Send a message</a>
+            <a href="https://wa.me/447477028979" target="_blank">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTION */}
