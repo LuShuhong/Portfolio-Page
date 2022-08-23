@@ -36,10 +36,6 @@
     font-size: 0.8rem;
   }
   
-  .contact__option h5 {
-    color: var(--color-light);
-  }
-  
   /* Form*/
   form {
     display: flex;
