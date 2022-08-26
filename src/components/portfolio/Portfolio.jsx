@@ -27,8 +27,8 @@ const data = [
     id: 3,
     image: IMG3,
     title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "http://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    github: "https://github.com/LuShuhong/book-website",
+    demo: "https://bookslover.netlify.app/",
   },
   {
     id: 4,

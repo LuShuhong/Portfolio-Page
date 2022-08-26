@@ -41,7 +41,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta accusamus ab tenetur cumque ratione vero, culpa alias? A, cumque magnam.
+          - Enthusiastic Full Stack Developer <br></br>
+          - Economics and Finance Master Degree from University College London <br></br>
+          - Retail Vendor Manager at Amazon <br></br>
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
