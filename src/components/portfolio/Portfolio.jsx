@@ -14,7 +14,7 @@ const data = [
     image: IMG1,
     title: "Fighting Game",
     github: "https://github.com/LuShuhong/fighting-game",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    demo: "https://fighting-game-lac.vercel.app/",
   },
   {
     id: 2,
