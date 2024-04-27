@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small> 1+ Years Coding</small>
+              <small> 3+ Years Coding</small>
             </article>
 
             <article className='about__card'>
@@ -35,15 +35,15 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small> 50+ Completed</small>
+              <small> 60+ Completed</small>
             </article>
 
           </div>
 
           <p>
-          - Enthusiastic Full Stack Developer <br></br>
-          - Economics and Finance Master Degree from University College London <br></br>
-          - Retail Vendor Manager at Amazon <br></br>
+          - Software Developer at The Hut Group <br></br>
+          - Master's Degree in Economics from University College London <br></br>
+          
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
